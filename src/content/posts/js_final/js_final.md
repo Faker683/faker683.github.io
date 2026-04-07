@@ -2,9 +2,9 @@
 title: JavaScript 阶段总结：跨越基础，驶向 React 的广阔天地
 published: 2026-04-07
 description: "历时四个月的前端学习复盘。聊聊闭包、异步，以及我对前端迭代、记笔记和框架选择的真实感悟。"
-image: "./Gemini_Generated_Image_totw4utotw4utotw.png"
+image: "./sao.png"
 tags: ["JavaScript"]
-category: '总结感悟'
+category: 总结感悟
 draft: false
 ---
 
