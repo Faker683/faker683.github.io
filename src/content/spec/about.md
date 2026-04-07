@@ -1,5 +1,5 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+踏实的强酸柠檬的个人博客[faker683](https://github.com/faker683).
 
 ::github{repo="saicaca/fuwari"}
 

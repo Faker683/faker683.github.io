@@ -1,7 +1,7 @@
 ---
 title: 大一上学期总结
 published: 2026-01-25
-description: 踏实的强酸柠檬
+description: We are voyager
 tags: [html, css, js, python, kali-linux, ubuntu]
 category: 总结感悟
 draft: false
